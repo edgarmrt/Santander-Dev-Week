@@ -1,6 +1,8 @@
-![image-20210607160907713](C:\Users\Edgar\AppData\Roaming\Typora\typora-user-images\image-20210607160907713.png)
+<img src="https://i.ibb.co/nDZ7v0Z/image-20210607160907713.png" alt="image-20210607160907713" border="0">
 
-\# Santander Dev Week
+
+
+#  Santander Dev Week
 
 <p align="center">🚀 4 aulas práticas para replicar tela de cotações do Santander</p>
 
