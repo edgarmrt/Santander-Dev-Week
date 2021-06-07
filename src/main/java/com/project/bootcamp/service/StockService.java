@@ -48,7 +48,7 @@ public class StockService {
     }
 
     @Transactional
-    public StockDTO delete(Long id){
+    public StockDTO  delete(Long id){
         StockDTO dto = this.findById(id);
         repository.deleteById(dto.getId());
         return dto;
